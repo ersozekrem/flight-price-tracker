@@ -1,0 +1,97 @@
+{
+  "search_date": "2025-10-01 03:44:19",
+  "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI1LTEwLTIxagcIARIDU05BcgcIARIDRVdSGh4SCjIwMjUtMTAtMjlqBwgBEgNFV1JyBwgBEgNTTkFAAUgBcAGCAQsI____________AZgBAQ",
+  "total_flights": 10,
+  "flights": [
+    {
+      "index": 1,
+      "raw_text": "8:09\u202fPM\n \u2013 \n6:22\u202fAM+1\nSpirit\n7 hr 13 min\nSNA\u2013EWR\n1 stop\n1 hr 2 min LAS\n335 kg CO2e\n+16% emissions\n0\n0\n$102\nround trip",
+      "price": "$102",
+      "times": "8:09\u202fPM - 6:22\u202fAM",
+      "duration": "7h 13m",
+      "airline": "Spirit",
+      "stops": "1 stop"
+    },
+    {
+      "index": 2,
+      "raw_text": "7:00\u202fAM\n \u2013 \n3:29\u202fPM\nUnited\n5 hr 29 min\nSNA\u2013EWR\nNonstop\n359 kg CO2e\n+24% emissions\n0\n0\n$319\nround trip",
+      "price": "$319",
+      "times": "7:00\u202fAM - 3:29\u202fPM",
+      "duration": "5h 29m",
+      "airline": "United",
+      "stops": "Nonstop"
+    },
+    {
+      "index": 3,
+      "raw_text": "9:05\u202fPM\n \u2013 \n5:16\u202fAM+1\nUnited\n5 hr 11 min\nSNA\u2013EWR\nNonstop\n359 kg CO2e\n+24% emissions\n0\n0\n$319\nround trip",
+      "price": "$319",
+      "times": "9:05\u202fPM - 5:16\u202fAM",
+      "duration": "5h 11m",
+      "airline": "United",
+      "stops": "Nonstop"
+    },
+    {
+      "index": 4,
+      "raw_text": "7:11\u202fAM\n \u2013 \n5:59\u202fPM\nUnited\n7 hr 48 min\nSNA\u2013EWR\n1 stop\n35 min SFO\n291 kg CO2e\nAvg emissions\n0\n0\n$329\nround trip",
+      "price": "$329",
+      "times": "7:11\u202fAM - 5:59\u202fPM",
+      "duration": "7h 48m",
+      "airline": "United",
+      "stops": "1 stop"
+    },
+    {
+      "index": 5,
+      "raw_text": "8:15\u202fAM\n \u2013 \n7:15\u202fPM\nUnited\n8 hr\nSNA\u2013EWR\n1 stop\n1 hr 3 min IAH\n327 kg CO2e\n+13% emissions\n0\n0\n$329\nround trip",
+      "price": "$329",
+      "times": "8:15\u202fAM - 7:15\u202fPM",
+      "duration": "8h 0m",
+      "airline": "United",
+      "stops": "1 stop"
+    },
+    {
+      "index": 6,
+      "raw_text": "10:39\u202fAM\n \u2013 \n9:28\u202fPM\nUnited\n7 hr 49 min\nSNA\u2013EWR\n1 stop\n1 hr 11 min ORD\n291 kg CO2e\nAvg emissions\n0\n0\n$329\nround trip",
+      "price": "$329",
+      "times": "10:39\u202fAM - 9:28\u202fPM",
+      "duration": "7h 49m",
+      "airline": "United",
+      "stops": "1 stop"
+    },
+    {
+      "index": 7,
+      "raw_text": "11:32\u202fAM\n \u2013 \n9:34\u202fPM\nUnited\n7 hr 2 min\nSNA\u2013EWR\n1 stop\n52 min DEN\n288 kg CO2e\nAvg emissions\n0\n0\n$329\nround trip",
+      "price": "$329",
+      "times": "11:32\u202fAM - 9:34\u202fPM",
+      "duration": "7h 2m",
+      "airline": "United",
+      "stops": "1 stop"
+    },
+    {
+      "index": 8,
+      "raw_text": "12:08\u202fPM\n \u2013 \n10:59\u202fPM\nUnited\n7 hr 51 min\nSNA\u2013EWR\n1 stop\n59 min IAH\n354 kg CO2e\n+22% emissions\n0\n0\n$329\nround trip",
+      "price": "$329",
+      "times": "12:08\u202fPM - 10:59\u202fPM",
+      "duration": "7h 51m",
+      "airline": "United",
+      "stops": "1 stop"
+    },
+    {
+      "index": 9,
+      "raw_text": "1:19\u202fPM\n \u2013 \n11:31\u202fPM\nUnited\n7 hr 12 min\nSNA\u2013EWR\n1 stop\n1 hr 5 min DEN\n287 kg CO2e\nAvg emissions\n0\n0\n$329\nround trip",
+      "price": "$329",
+      "times": "1:19\u202fPM - 11:31\u202fPM",
+      "duration": "7h 12m",
+      "airline": "United",
+      "stops": "1 stop"
+    },
+    {
+      "index": 10,
+      "raw_text": "1:48\u202fPM\n \u2013 \n12:45\u202fAM+1\nUnited\n7 hr 57 min\nSNA\u2013EWR\n1 stop\n1 hr 24 min ORD\n310 kg CO2e\n+7% emissions\n0\n0\n$329\nround trip",
+      "price": "$329",
+      "times": "1:48\u202fPM - 12:45\u202fAM",
+      "duration": "7h 57m",
+      "airline": "United",
+      "stops": "1 stop"
+    }
+  ]
+}
